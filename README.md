@@ -37,10 +37,10 @@ Here are some tools and technologies I often use:
   <a href="https://linkedin.com/in/ihzaananda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ihza_Ananda-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:ihza@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ihza@example.com-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:anandarachmanihza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-anandarachmanihza@gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://instagram.com/ihzaananda" target="_blank">
+  <a href="https://www.instagram.com/rachmanihza_?igsh=MXd5bGQwaG44enppYQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@ihzaananda-pink?style=for-the-badge&logo=instagram">
   </a>
 </p>
