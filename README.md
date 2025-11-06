@@ -26,8 +26,8 @@ Here are some tools and technologies I often use:
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihzaananda&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihzaananda&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ihzaanandar&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihzaanandar&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
