@@ -79,5 +79,6 @@ I enjoy solving real-world problems through technology and continuously improvin
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=⭐+%E2%80%9CCode+is+like+humor.+When+you+have+to+explain+it,+it's+bad.%E2%80%9D+–+Cory+House" alt="Quote animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%E2%AD%90+Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.+–+Cory+House" alt="quote animation" />
 </p>
+
