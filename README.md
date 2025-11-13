@@ -64,7 +64,7 @@ I enjoy solving real-world problems through technology and continuously improvin
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
+<p align="center" gap="10px">
   <a href="https://linkedin.com/in/ihzaananda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ihza_Ananda-blue?style=for-the-badge&logo=linkedin">
   </a>
