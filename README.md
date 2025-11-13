@@ -58,8 +58,8 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 ### 🏆 GitHub Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ihzaanandar&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ihzaanandar&theme=tokyonight&margin-w=10&no-frame=true&row=1" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ihzaanandar&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ihzaanandar&theme=tokyonight&margin-w=10" height="165" />
 </p>
 
 ---
