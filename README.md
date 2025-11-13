@@ -64,17 +64,22 @@ I enjoy solving real-world problems through technology and continuously improvin
 ---
 
 ### 🌐 Connect With Me
-<p align="center" gap="10px">
+<h3 align="center">🌐 Connect With Me</h3>
+
+<p align="center">
   <a href="https://linkedin.com/in/ihzaananda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ihza_Ananda-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Ihza_Ananda-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:anandarachmanihza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-anandarachmanihza@gmail.com-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-anandarachmanihza@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/rachmanihza_?igsh=MXd5bGQwaG44enppYQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@ihzaananda-pink?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-@rachmanihza-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 
