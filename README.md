@@ -15,6 +15,7 @@ I enjoy solving real-world problems through technology and continuously improvin
 
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R Language](https://img.shields.io/badge/R_Language-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
