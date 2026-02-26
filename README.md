@@ -39,8 +39,13 @@ I am passionate about building **data-driven solutions** that support better dec
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ihzaanandar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihzaanandar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=Ihzaanandar&show_icons=true&theme=tokyonight" height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ihzaanandar&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Ihzaanandar&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
