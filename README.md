@@ -43,9 +43,9 @@ I am passionate about building **data-driven solutions** that support better dec
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Ihzaanandar&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-res.vercel.app/api?username=Ihzaanandar&show_icons=true&theme=tokyonight" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Ihzaanandar&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-res.vercel.app/api/top-langs/?username=Ihzaanandar&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
