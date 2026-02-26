@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=1000&height=120&lines=Hi+there!+I'm+Ihza+Ananda+Rachman;Data+Engineering+%26+Analytics+Enthusiast;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=1000&height=100&lines=Hi+there!+I'm+Ihza+Ananda+Rachman;Data+Engineering+%26+Analytics+Enthusiast;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,12 +37,6 @@ I am passionate about building **data-driven solutions** that support better dec
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=1000&height=100&lines=Hi+there!+I'm+Ihza+Ananda+Rachman;Data+Engineering+%26+Analytics+Enthusiast;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ihzaanandar&theme=tokyonight" height="170" />
@@ -50,10 +44,9 @@ I am passionate about building **data-driven solutions** that support better dec
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Ihzaanandar&show_icons=true&theme=tokyonight" height="170" />
+  &nbsp;
   <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Ihzaanandar&layout=compact&theme=tokyonight" height="170" />
 </p>
-
----
 
 ---
 
@@ -62,6 +55,7 @@ I am passionate about building **data-driven solutions** that support better dec
 <a href="https://linkedin.com/in/ihzaananda" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Ihza_Ananda-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:anandarachmanihza@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
