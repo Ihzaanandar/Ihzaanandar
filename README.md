@@ -37,16 +37,23 @@ I am passionate about building **data-driven solutions** that support better dec
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=1000&height=100&lines=Hi+there!+I'm+Ihza+Ananda+Rachman;Data+Engineering+%26+Analytics+Enthusiast;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=Ihzaanandar&show_icons=true&theme=tokyonight" height="170" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ihzaanandar&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Ihzaanandar&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Ihzaanandar&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Ihzaanandar&layout=compact&theme=tokyonight" height="170" />
 </p>
+
+---
 
 ---
 
